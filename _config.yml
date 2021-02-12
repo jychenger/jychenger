@@ -1,9 +1,9 @@
 title: jychenger
 
-description: Cayman is a clean, responsive theme for GitHub Pages.
+description: This website is built by jychenger and introduces the main repository of github user jychenger
 
 show_downloads: true
 
-google_analytics:
+google_analytics: true
 
 theme: jekyll-theme-cayman
