@@ -47,21 +47,18 @@ Here are some ideas to get you started:
 ## Pylearning介绍(缺点:侧重于Python3): 
 
 > 第一本 :  Python从入门到精通  
-
 >> 包括对Python语言的介绍，安装，编辑器配置。还有基础语法，函数，类，用户输入以及一些强大标准库的用法。 
->>> [Downloads(还未赶稿完，所以是空链接)]() 
+>>> [Downloads(还未赶稿完，所以是空链接)]()  
 >>> [一点即入，勿沉迷，莫猝死](https://jychenger.github.io/Python-From-Introduction-to-Mastery/)
 
-> 第二本 :  Python从精通到入坑  
-
+> 第二本 :  Python从精通到入坑 
 >> 对更多有用标准库进行介绍，并开发windows，Linux，Mac应用程序和Android开发(前提是有一瓶好点的护发素🌝🌝🌚🌚)  
 >>> [Downloads(还未赶稿完，所以是空链接)]() 
 >>> [一点即入，勿沉迷，莫猝死]()
 
 > 第三本 : Python从入坑到入狱  
-
 >> 继续开发黑客软件，如DDoS，弱口令，键盘⌨️监视等等。  
->>> [Downloads(还未赶稿完，所以是空链接)]()
+>>> [Downloads(还未赶稿完，所以是空链接)]()  
 >>> [一点即入，勿沉迷，莫猝死]()
 ***
 ## Linux下载此存储库源码
