@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ***
 
-information of myself:
+## information of myself:
 
 > name:jychenger  
 
@@ -35,7 +35,7 @@ information of myself:
 
 ***
 
-关于我的仓库: 
+## 关于我的仓库: 
 
 |  name | 内容  | 状况 |
 |  ----  |  ----  | ---- |
@@ -44,7 +44,7 @@ information of myself:
 
 ***
 
-Pylearning介绍(缺点:侧重于Python3): 
+## Pylearning介绍(缺点:侧重于Python3): 
 
 > 第一本 :  Python从入门到精通  
 
