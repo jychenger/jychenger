@@ -65,7 +65,21 @@ Pylearning介绍(缺点:侧重于Python3):
 >>> [Downloads(还未赶稿完，所以是空链接)]()
 
 ***
+## Linux下载此存储库源码
 
+### zip
+```sh
+wget https://github.com/jychenger/jychenger/zipball/main
+```
+### tar.gz
+```sh
+wget https://github.com/jychenger/jychenger/tarball/main
+```
+
+## Windows安装
+### 直接点击上方downloads按钮
+
+***
 ## 联系方式:
 
 ###  [my email～1: 2671113655@qq.com](2671113655@qq.com)
