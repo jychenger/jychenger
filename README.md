@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 
 ### zip
 ```sh
-wget https://github.com/jychenger/jychenger/zipball/main
+apt-get install wget && wget https://github.com/jychenger/jychenger/zipball/main
 ```
 ### tar.gz
 ```sh
-wget https://github.com/jychenger/jychenger/tarball/main
+apt-get install wget && wget https://github.com/jychenger/jychenger/tarball/main
 ```
 
 ## Windows安装
