@@ -48,8 +48,8 @@ Here are some ideas to get you started:
 
 > 第一本 :  Python从入门到精通  
 >> 包括对Python语言的介绍，安装，编辑器配置。还有基础语法，函数，类，用户输入以及一些强大标准库的用法。 
->>> [Downloads(还未赶稿完，所以是空链接)]()  
->>> [一点即入，勿沉迷，莫猝死(实)](https://jychenger.github.io/Python-From-Introduction-to-Mastery/)
+>>> [Downloads](https://github.com/jychenger/Python-From-Introduction-to-Mastery/archive/main.zip)  
+>>> [一点即入，勿沉迷，莫猝死(go to read)](https://jychenger.github.io/Python-From-Introduction-to-Mastery/)
 
 > 第二本 :  Python从精通到入坑 
 >> 对更多有用标准库进行介绍，并开发windows，Linux，Mac应用程序和Android开发(前提是有一瓶好点的护发素🌝🌝🌚🌚)  
