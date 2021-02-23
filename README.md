@@ -43,7 +43,9 @@ Here are some ideas to get you started:
 | Pylearning | Python教程 | 正在赶稿🌑🌒🌓🌔🌕🌖🌗🌘🌑 |
 
 ***
-
+## 作者各语言掌握情况(不太好( •︠ˍ•︡ )）
+![languages](https://i.loli.net/2021/02/23/mI6xKV4XUfMReaC.jpg)
+***
 ## Pylearning介绍(缺点:侧重于Python3): 
 
 > 第一本 :  Python从入门到精通  
