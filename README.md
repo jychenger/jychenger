@@ -44,8 +44,8 @@ Here are some ideas to get you started:
 
 ***
 ## 作者各语言掌握情况(不太好( •︠ˍ•︡ )）
-![languages](https://i.loli.net/2021/02/23/mI6xKV4XUfMReaC.jpg)
-***
+![languages](
+***https://sh-download-ipv6.ftn.qq.com/ftn_handler/f7bf5568b18749a1fed89a2c512681c399ae3c8e7e59d0d774406e1c0f19ff507500d8e28dec331abfd68fe3c406595cf838df1d9d2fd5b5d54a1183ad9c9b46/?fname=*.jpg&pictype=scaled&size=1024*768)
 ## Pylearning介绍(缺点:侧重于Python3): 
 
 > 第一本 :  Python从入门到精通  
