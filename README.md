@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ***
 ## 作者各语言掌握情况(不太好( •︠ˍ•︡ )）
-![languages](https://i.loli.net/2021/02/23/mI6xKV4XUfMReaC.jpg)
+![mI6xKV4XUfMReaC.jpg](https://i.loli.net/2021/02/24/fRKgcqFslT4UxPa.jpg)
 *** 
 ## Pylearning介绍(缺点:侧重于Python3): 
 
