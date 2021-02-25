@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 > 第一本 :  Python从入门到精通  
 >> 包括对Python语言的介绍，安装，编辑器配置。还有基础语法，函数，类，用户输入以及一些强大标准库的用法。 
->>> [Downloads](https://github.com/jychenger/Python-From-Introduction-to-Mastery/archive/main.zip)  
+>>> [Downloads](https://github.com/jychenger/Python-From-Introduction-to-Mastery/archive/main.zip)    
 >>> [一点即入，勿沉迷，莫猝死(go to read)](https://jychenger.github.io/Python-From-Introduction-to-Mastery/)
 
 > 第二本 :  Python从精通到入坑 
@@ -75,7 +75,7 @@ apt-get install wget && wget https://github.com/jychenger/jychenger/tarball/main
 ```
 
 ## Windows安装
-### 直接点击上方downloads按钮
+### 直接点击上方downloads按钮  
 
 ***
 ## 联系方式:
