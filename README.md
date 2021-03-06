@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: ...
 
--->
 
 ***
 
@@ -45,7 +44,9 @@ Here are some ideas to get you started:
 ***
 ## 作者各语言掌握情况(不太好( •︠ˍ•︡ )）
 ![mI6xKV4XUfMReaC.jpg](https://i.loli.net/2021/02/24/fRKgcqFslT4UxPa.jpg)
-*** 
+
+***
+
 ## Pylearning介绍(缺点:侧重于Python3): 
 
 > 第一本 :  Python从入门到精通  
@@ -65,7 +66,9 @@ Here are some ideas to get you started:
 >>> [Downloads(还未赶稿完，所以是空链接)]()  
 >>>    
 >>> [一点即入，勿沉迷，莫猝死(空)]()
+
 ***
+
 ## Linux下载此存储库源码
 
 ### zip
