@@ -86,8 +86,8 @@ apt-get install wget && wget https://github.com/jychenger/jychenger/tarball/main
 ***
 ## 联系方式:
 
-###  [my email～1: 2671113655@qq.com](2671113655@qq.com)
+- [my email～1: 2671113655@qq.com](2671113655@qq.com)
 
-###  [my email～2: x1112737@163.com](x1112737@163.com)
+- [my email～2: x1112737@163.com](x1112737@163.com)
 
-###  [my email～3: jychenger@foxmail.com](jychenger@foxmail.com)
+- [my email～3: jychenger@foxmail.com](jychenger@foxmail.com)
