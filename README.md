@@ -91,3 +91,5 @@ apt-get install wget && wget https://github.com/jychenger/jychenger/tarball/main
 - [my email～2: x1112737@163.com](x1112737@163.com)
 
 - [my email～3: jychenger@foxmail.com](jychenger@foxmail.com)
+
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=jychenger&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jychenger&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
