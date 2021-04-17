@@ -1,5 +1,5 @@
 # welcome to jychenger
-
+[![DISCORD](https://img.shields.io/badge/Chat-On%20Discord-738BD7.svg?style=for-the-badge)](https://github.com/jychenger/jychenger/discussions)
 ***
 
 **jychenger/jychenger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
